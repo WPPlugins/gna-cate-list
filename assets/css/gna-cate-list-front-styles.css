@@ -1,0 +1,4 @@
+li.current-cat > a {
+	color: red;
+	font-weight: bold;
+}
